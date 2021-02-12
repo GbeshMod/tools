@@ -19,3 +19,6 @@ index d28nd309d..b3nu834uj 111111
 
 
 { width: 200px; }
+
+
+<div style="width:50%">![Chilling](https://www.w3schools.com/w3images/fjords.jpg)</div>
