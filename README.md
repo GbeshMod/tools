@@ -46,7 +46,7 @@ markdown
 ![image](https://octodex.github.com/images/yaktocat.png "This is a tooltip"){: width=200px}
 
 
-![image|10x10](https://www.linkpicture.com/q/4_637.jpg)
+![image|3x3](https://www.linkpicture.com/q/4_637.jpg)
 
 
 
