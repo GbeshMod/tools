@@ -32,6 +32,18 @@ Here is an image of tree:
 [MOD]: https://www.linkpicture.com/q/4_637.jpg "This is a tree"
 
 
+markdown
+![drawing](https://www.linkpicture.com/q/4_637.jpg)   
+{:.some-css-class style="width: 200px"}
+or
+
+markdown
+![drawing](https://www.linkpicture.com/q/4_637.jpg)   
+{:.some-css-class width="200"}
+
+
+
+
 
 
 
