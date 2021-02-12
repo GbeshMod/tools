@@ -12,4 +12,5 @@ index d28nd309d..b3nu834uj 111111
 +newLine
 ```
 [![image](https://www.linkpicture.com/q/logo_1.gif)](https://www.linkpicture.com/view.php?img=LPic601fda8ab82131472088793)
-![image](https://www.linkpicture.com/q/4_637.jpg){ width: 200px; }
+![image](https://www.linkpicture.com/q/4_637.jpg){ width=50% }
+{ width: 200px; }
