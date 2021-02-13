@@ -14,5 +14,5 @@ index d28nd309d..b3nu834uj 111111
 ```
 
 ![image](https://www.linkpicture.com/q/logo_1.gif)
-![image](https://www.linkpicture.com/q/4_637.jpg){ width=50% }
 
+![image](https://www.linkpicture.com/q/4_637.jpg)
